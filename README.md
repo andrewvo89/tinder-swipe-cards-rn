@@ -1,10 +1,9 @@
 # tinder-swipe-cards-rn
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/48583281/141875877-6e9d2368-fa2f-4fef-a8c7-a4a0df87cad7.gif)
 
 ## About <a name = "about"></a>
 
 A simple Tinder like swipe component for swiping cards.
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/48583281/141875877-6e9d2368-fa2f-4fef-a8c7-a4a0df87cad7.gif)
 
 ## Getting Started <a name = "getting_started"></a>
 
